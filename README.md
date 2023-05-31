@@ -11,3 +11,5 @@ Overall, this project facilitates efficient management of class schedules and en
 
 It leverages web development technologies such as HTML, CSS, JavaScript, PHP, Bootstrap and MySQL to create a functional and user-friendly system.
 
+"Download and Extract: 'rms.rar '- Get the Complete Files for the Routine Management System Project!"
+
